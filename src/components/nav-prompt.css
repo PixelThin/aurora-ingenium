@@ -1,0 +1,16 @@
+.nav-prompt-text-input {
+    width: 30vw;
+    height: 10vh;
+    max-width: 800px;
+    max-height: 100px;
+    color: lightgray;
+    background-color: black;
+}
+
+.nav-prompt-button {
+    background-color: #ffab44;
+    color: black;
+    border-width: 2px;
+    border-color: black;
+    border-style: groove;
+}
